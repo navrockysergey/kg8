@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Build Status](https://travis-ci.org/magento/magento2.svg?branch=develop)](https://travis-ci.org/magento/magento2)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/magento/magento2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/magento-2/localized.png)](https://crowdin.com/project/magento-2)
@@ -57,3 +58,7 @@ Please see LICENSE.txt for the full text of the OSL 3.0 license or contact licen
 Subject to Licensee's payment of fees and compliance with the terms and conditions of the MEE License, the MEE License supersedes the OSL 3.0 license for each source file.
 Please see LICENSE_EE.txt for the full text of the MEE License or visit http://magento.com/legal/terms/enterprise.
 
+=======
+# kg8
+magento2
+>>>>>>> 6ac980e74114b1293bc250ed2adfedc368f998b1
