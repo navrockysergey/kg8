@@ -1,6 +1,3 @@
-require([
-    'jquery',
-    'materialize'
-], function ($, script) {
-    $('body').append($materialize)
+require(['jquery', 'materialize', 'custom'], function($) {
+
 });

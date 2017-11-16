@@ -11,6 +11,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
 
         <!-- add custom css -->
+        <css src="css/materialize.min.css"/>
         <css src="css/fonts.css"/>
         <css src="css/custom.css"/>
 
